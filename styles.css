@@ -14,17 +14,24 @@ h3{
     background-color: beige;
     padding: 10px;
 }
-.item, ol li{
+.item li, ol li{
     background-color: lightpink;
-    padding: 30px;
+    padding: 16px;
     margin-left: 30px;
     margin-right: 30px;
     
 }
 
+ol li, .item li{
+    margin-bottom: 10px;
+}
+
+
+
 
 .item{
     font-size: x-large;
+    
 }
 
 
