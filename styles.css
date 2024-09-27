@@ -1,15 +1,35 @@
+*{
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 h1{
     color: crimson;
     text-align: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: beige;
     padding: 30px;
 }
-.item{
-    font-size: x-large;
+h3{
+    color: crimson;
+    background-color: beige;
+    padding: 10px;
+}
+.item, ol li{
     background-color: lightpink;
     padding: 30px;
     margin-left: 30px;
     margin-right: 30px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+
+.item{
+    font-size: x-large;
+}
+
+
+
+.conclusion{
+    background-color: beige;
+    padding: 30px;
 }
